@@ -1,0 +1,12 @@
+body {
+    background-color: black;
+    color: white; /* 設定文字顏色為白色，以增加對比度 */
+    font-family: Arial, sans-serif; /* 設定字型 */
+    margin: 0; /* 清除預設的頁面邊距 */
+}
+
+.content {
+    max-width: 800px; /* 設定內容區域最大寬度 */
+    margin: 0 auto; /* 水平置中內容 */
+    padding: 20px; /* 加入內邊距，使內容不黏在視窗邊緣 */
+}
